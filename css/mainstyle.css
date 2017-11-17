@@ -1,0 +1,54 @@
+
+            @media screen and (max-width:768px){
+            
+             .header{
+                    background-image:url('img/landingsmall.jpg');
+                    max-height:100%;
+                    max-width: :100%;
+                }
+                .explore{
+                    margin-top:-300px;
+                }
+                .explorebtn{
+                    width: 200px; 
+                    margin: 0 auto;
+                }
+                .socialinkpa{
+                    
+                }
+                .sociallinks{
+                    text-align: center;
+                    margin-left:0;
+                    padding:0;
+                    width:100%;
+                    margin-top:-120px;
+                    
+                }
+                .footertext{
+                    margin-top:270px;
+                text-align:center;
+                    width:100%;
+                }
+            }
+                @media screen and (min-width:769px){
+                    .header{
+                        background-image: url('img/landing.jpg');
+                            max-width:100%;
+                            max-height:100%;
+                    }
+                    .explore{
+                        margin-top:-150px;
+                    }
+                    .explorebtn{
+                        width: 200px; 
+                        margin: 0 auto;
+                    }
+                    .sociallinks{
+                        margin:  0 auto;
+                        
+                    } 
+                    .footer{
+                        text-align:center;
+                    }
+                }
+         
